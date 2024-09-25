@@ -1,6 +1,18 @@
 [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d2c9658-e25e-4dd6-9c56-932447f29482/ddio625-88c6c961-13c1-43ee-a08f-3c3ceeb7f053.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkMmM5NjU4LWUyNWUtNGRkNi05YzU2LTkzMjQ0N2YyOTQ4MlwvZGRpbzYyNS04OGM2Yzk2MS0xM2MxLTQzZWUtYTA4Zi0zYzNjZWViN2YwNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1Shjpe-XOI7ativXu5UeoPDRzJkK_mAkgdJdHTEVSQM)](https://senpai-ak.web.app)
 <h1 align="center">Hi 👋, I'm Λᴎaᴎd Kr!ꙅhᴎâ</h1>
-<br>🔭 I’m currently working on developing a dynamic Cricket scoring platform and Human Resources Management System [HRMS] using Angular framework and React, implementing responsive design and smooth user interactions in Vickey apps technologies.<br>👯 I’m looking to collaborate on open-source Angular projects, especially those related to improving user experience and accessibility.<br>🤝 I’m looking for help with optimizing performance and scalability in Angular applications, particularly in handling large datasets and optimizing rendering.<br>🌱 I’m currently learning advanced Angular techniques such as lazy loading modules and implementing server-side rendering for improved SEO.<br>💬 Ask me about Angular best practices, component architecture, or optimizing Angular applications for performance.<br>⚡ Fun fact: Did you know that Angular was initially developed by Google and released in 2010 as AngularJS, then rewritten in TypeScript and released as Angular 2+ in 2016?
+<br>
+
+🔭 I’m currently working on developing a dynamic Cricket scoring platform and Human Resources Management System [HRMS] using Angular framework and React, implementing responsive design and smooth user interactions in Vickey apps technologies.<br>
+
+👯 I’m looking to collaborate on open-source Angular projects, especially those related to improving user experience and accessibility.<br>
+
+🤝 I’m looking for help with optimizing performance and scalability in Angular applications, particularly in handling large datasets and optimizing rendering.<br>
+
+🌱 I’m currently learning advanced Angular techniques such as lazy loading modules and implementing server-side rendering for improved SEO.<br>
+
+💬 Ask me about Angular best practices, component architecture, or optimizing Angular applications for performance.<br>
+
+⚡ Fun fact: Did you know that Angular was initially developed by Google and released in 2010 as AngularJS, then rewritten in TypeScript and released as Angular 2+ in 2016?
 
 
 ## 🌐 Socials:
