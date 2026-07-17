@@ -2,17 +2,43 @@
 <h1 align="center">Hi 👋, I'm Λᴎaᴎd Kr!ꙅhᴎâ</h1>
 <br>
 
-🔭 I’m currently working on developing a dynamic Cricket scoring platform and Human Resources Management System [HRMS] using Angular framework and React, implementing responsive design and smooth user interactions in Vickey apps technologies.<br>
+**Front-End Developer** based in Andhra Pradesh, India, building web and mobile products for a fast-moving startup.
 
-👯 I’m looking to collaborate on open-source Angular projects, especially those related to improving user experience and accessibility.<br>
+## 🚀 About Me
 
-🤝 I’m looking for help with optimizing performance and scalability in Angular applications, particularly in handling large datasets and optimizing rendering.<br>
+I'm a Front-End Developer with 3 years of experience turning designs into fast, responsive, production-ready interfaces. At **Vickeyapps Technologies**, I've worked across the full front-end spectrum — from building scalable component-based UIs for an enterprise HRMS platform, to shipping a companion Android app, to designing brand identities and marketing sites for clients.
 
-🌱 I’m currently learning advanced Angular techniques such as lazy loading modules and implementing server-side rendering for improved SEO.<br>
+I like owning things end-to-end: architecture, UI, integration with REST APIs, and polish. I'm equally comfortable in React and Angular, and I regularly cross over into mobile (Flutter, native Android) and light backend work (Node.js/Express, MongoDB) when a project needs it.
 
-💬 Ask me about Angular best practices, component architecture, or optimizing Angular applications for performance.<br>
+Outside of client work, I run **[@techinsixty](https://instagram.com/techinsixty)** on Instagram, where I break down developer tools, AI, and security topics into short, visual content — which also feeds my interest in design and motion graphics.
 
-⚡ Fun fact: Did you know that Angular was initially developed by Google and released in 2010 as AngularJS, then rewritten in TypeScript and released as Angular 2+ in 2016?
+## 🛠️ What I Work With
+
+**Languages:** HTML5, CSS3, JavaScript, TypeScript
+**Frameworks & Libraries:** Angular, React, Bootstrap, Tailwind CSS, SASS, Chart.js, Ionic
+**Mobile:** Flutter, Android (native)
+**Backend & Platform:** Node.js, Express.js, MongoDB, Firebase, JWT, REST APIs
+**Testing & Tooling:** Cypress, Jasmine, Git, Postman, NPM
+**Design:** Figma, Adobe Photoshop, Adobe Lightroom, Canva
+
+## 💼 What I've Built
+
+- **Ooho HRMS** — Developed scalable, component-based front-end applications for a cloud-based HR & payroll platform, including a fully independent build of the Employee Self-Service Portal and its companion Android app.
+- **Eazy Studio** — A free, browser-based AI screen-recording editor with zoom effects, smart censoring, and a timeline editor, with all processing running client-side. → [eazystudio.vickeyapps.com](https://eazystudio.vickeyapps.com/)
+- **DualShot** — An Android app published on the Google Play Store.
+- **Super Scorer** — A live cricket scoring web app, one of my earliest projects at Vickeyapps.
+- **5+ client websites** — Clean, SEO-friendly sites built with HTML, CSS, and JavaScript.
+- Currently building the front end of an in-development movie production platform, from scratch.
+
+## 🎨 Beyond Code
+
+I create tech-focused content on Instagram as **@techinsixty**, and enjoy motion graphics, poster design, and social content production alongside development work.
+
+## 📫 Connect With Me
+
+- **Portfolio:** [dotkrishna.web.app](https://dotkrishna.web.app/)
+- **Email:** kskreddy97@gmail.com
+- **Instagram:** [@techinsixty](https://instagram.com/techinsixty)
 
 
 ## 🌐 Socials:
