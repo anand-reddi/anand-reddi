@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Λᴎaᴎd Kr!ꙅhᴎâ</h1>
 <br>
 
-I'm a Front-End Developer with 3 years of experience turning designs into fast, responsive, production-ready interfaces. At **Vickeyapps Technologies**, I've worked across the full front-end spectrum, from building scalable component-based UIs for an enterprise HRMS platform, to shipping a companion Android app, to designing brand identities and marketing sites for clients.
+I'm a Front-End Developer with 3+ years of experience turning designs into fast, responsive, production-ready interfaces. At **Vickeyapps Technologies**, I've worked across the full front-end spectrum, from building scalable component-based UIs for an enterprise HRMS platform, to shipping a companion Android app, to designing brand identities and marketing sites for clients.
 
 I like owning things end-to-end: architecture, UI, integration with REST APIs, and polish. I'm equally comfortable in React and Angular, and I regularly cross over into mobile (Flutter, native Android) and light backend work (Node.js/Express, MongoDB) when a project needs it.
 
