@@ -12,7 +12,7 @@ Outside of client work, I run **[@techinsixty](https://instagram.com/techinsixty
 
 - **Ooho HRMS** — Developed scalable, component-based front-end applications for a cloud-based HR & payroll platform, including a fully independent build of the Employee Self-Service Portal and its companion Android app.→ [ooho.co/](https://ooho.co/)
 - **Eazy Studio** — A free, browser-based AI screen-recording editor with zoom effects, smart censoring, and a timeline editor, with all processing running client-side. → [eazystudio.vickeyapps.com](https://eazystudio.vickeyapps.com/)
-- **DualShot** — An Android app published on the Google Play Store. → [play.google.com](https://play.google.com/store/apps/details?id=com.vickeyapps.dualshot/)
+- **DualShot** — An Android app published on the Google Play Store. → [play.google.com](https://play.google.com/store/apps/details?id=com.vickeyapps.dualshot)
 - **Super Scorer** — A live cricket scoring web app, one of my earliest projects at Vickeyapps.
 - **5+ client websites** — Clean, SEO-friendly sites built with HTML, CSS, and JavaScript.
 - Currently building the front end of an in-development movie production platform, from scratch.
