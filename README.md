@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Λᴎaᴎd Kr!ꙅhᴎâ</h1>
 <br>
 
-**Front-End Developer** based in Andhra Pradesh, India, building web and mobile products for a fast-moving startup.
-
-## 🚀 About Me
-
 I'm a Front-End Developer with 3 years of experience turning designs into fast, responsive, production-ready interfaces. At **Vickeyapps Technologies**, I've worked across the full front-end spectrum, from building scalable component-based UIs for an enterprise HRMS platform, to shipping a companion Android app, to designing brand identities and marketing sites for clients.
 
 I like owning things end-to-end: architecture, UI, integration with REST APIs, and polish. I'm equally comfortable in React and Angular, and I regularly cross over into mobile (Flutter, native Android) and light backend work (Node.js/Express, MongoDB) when a project needs it.
@@ -14,9 +10,9 @@ Outside of client work, I run **[@techinsixty](https://instagram.com/techinsixty
 
 ## 💼 What I've Built
 
-- **Ooho HRMS** — Developed scalable, component-based front-end applications for a cloud-based HR & payroll platform, including a fully independent build of the Employee Self-Service Portal and its companion Android app.
+- **Ooho HRMS** — Developed scalable, component-based front-end applications for a cloud-based HR & payroll platform, including a fully independent build of the Employee Self-Service Portal and its companion Android app.→ [ooho.co/](https://ooho.co/)
 - **Eazy Studio** — A free, browser-based AI screen-recording editor with zoom effects, smart censoring, and a timeline editor, with all processing running client-side. → [eazystudio.vickeyapps.com](https://eazystudio.vickeyapps.com/)
-- **DualShot** — An Android app published on the Google Play Store.
+- **DualShot** — An Android app published on the Google Play Store. → [play.google.com](https://play.google.com/store/apps/details?id=com.vickeyapps.dualshot/)
 - **Super Scorer** — A live cricket scoring web app, one of my earliest projects at Vickeyapps.
 - **5+ client websites** — Clean, SEO-friendly sites built with HTML, CSS, and JavaScript.
 - Currently building the front end of an in-development movie production platform, from scratch.
