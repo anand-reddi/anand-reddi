@@ -6,20 +6,11 @@
 
 ## 🚀 About Me
 
-I'm a Front-End Developer with 3 years of experience turning designs into fast, responsive, production-ready interfaces. At **Vickeyapps Technologies**, I've worked across the full front-end spectrum — from building scalable component-based UIs for an enterprise HRMS platform, to shipping a companion Android app, to designing brand identities and marketing sites for clients.
+I'm a Front-End Developer with 3 years of experience turning designs into fast, responsive, production-ready interfaces. At **Vickeyapps Technologies**, I've worked across the full front-end spectrum, from building scalable component-based UIs for an enterprise HRMS platform, to shipping a companion Android app, to designing brand identities and marketing sites for clients.
 
 I like owning things end-to-end: architecture, UI, integration with REST APIs, and polish. I'm equally comfortable in React and Angular, and I regularly cross over into mobile (Flutter, native Android) and light backend work (Node.js/Express, MongoDB) when a project needs it.
 
-Outside of client work, I run **[@techinsixty](https://instagram.com/techinsixty)** on Instagram, where I break down developer tools, AI, and security topics into short, visual content — which also feeds my interest in design and motion graphics.
-
-## 🛠️ What I Work With
-
-**Languages:** HTML5, CSS3, JavaScript, TypeScript
-**Frameworks & Libraries:** Angular, React, Bootstrap, Tailwind CSS, SASS, Chart.js, Ionic
-**Mobile:** Flutter, Android (native)
-**Backend & Platform:** Node.js, Express.js, MongoDB, Firebase, JWT, REST APIs
-**Testing & Tooling:** Cypress, Jasmine, Git, Postman, NPM
-**Design:** Figma, Adobe Photoshop, Adobe Lightroom, Canva
+Outside of client work, I run **[@techinsixty](https://instagram.com/techinsixty)** on Instagram, where I break down developer tools, AI, and security topics into short, visual content, which also feeds my interest in design and motion graphics.
 
 ## 💼 What I've Built
 
@@ -33,12 +24,6 @@ Outside of client work, I run **[@techinsixty](https://instagram.com/techinsixty
 ## 🎨 Beyond Code
 
 I create tech-focused content on Instagram as **@techinsixty**, and enjoy motion graphics, poster design, and social content production alongside development work.
-
-## 📫 Connect With Me
-
-- **Portfolio:** [dotkrishna.web.app](https://dotkrishna.web.app/)
-- **Email:** kskreddy97@gmail.com
-- **Instagram:** [@techinsixty](https://instagram.com/techinsixty)
 
 
 ## 🌐 Socials:
