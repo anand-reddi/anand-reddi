@@ -15,7 +15,7 @@ Outside of client work, I run **[@techinsixty](https://instagram.com/techinsixty
 - **DualShot** — An Android app published on the Google Play Store. → [play.google.com](https://play.google.com/store/apps/details?id=com.vickeyapps.dualshot)
 - **Super Scorer** — A live cricket scoring web app, one of my earliest projects at Vickeyapps.
 - **5+ client websites** — Clean, SEO-friendly sites built with HTML, CSS, and JavaScript.
-- Currently building the front end of an in-development movie production platform, from scratch.
+- Currently building the leavling fitness app on flutter, from scratch.
 
 ## 🎨 Beyond Code
 
