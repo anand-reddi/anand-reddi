@@ -18,7 +18,6 @@ Outside of client work, I run **[@techinsixty](https://instagram.com/techinsixty
 - Currently building the Leveling fitness app on flutter, from scratch.
 
 ## 🎨 Beyond Code
-
 I create tech-focused content on Instagram as **@techinsixty**, and enjoy motion graphics, poster design, and social content production alongside development work.
 
 # 💻 Techh Stack:
