@@ -36,13 +36,13 @@ On Instagram I run **[@techinsixty](https://instagram.com/techinsixty)**, breaki
 <img src="./assets/h-stats.svg" width="100%" alt="Battle Record" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anand-reddi&background=121216&border=26262C&stroke=26262C&ring=FF3B3B&fire=FF3B3B&currStreakNum=F2F2F2&sideNums=F2F2F2&currStreakLabel=FF3B3B&sideLabels=8A8A93&dates=8A8A93&hide_border=false" width="100%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=anand-reddi&background=121216&border=26262C&stroke=26262C&ring=39D353&fire=39D353&currStreakNum=F2F2F2&sideNums=F2F2F2&currStreakLabel=39D353&sideLabels=8A8A93&dates=8A8A93&hide_border=false" width="100%" alt="GitHub streak" />
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anand-reddi/anand-reddi/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anand-reddi/anand-reddi/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/anand-reddi/anand-reddi/output/snake-dark.svg" width="100%" alt="Contribution grid being eaten by a snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anand-reddi/anand-reddi/output/snake-green-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anand-reddi/anand-reddi/output/snake-green-light.svg" />
+  <img src="https://raw.githubusercontent.com/anand-reddi/anand-reddi/output/snake-green-dark.svg" width="100%" alt="Contribution grid being eaten by a snake" />
 </picture>
 
 <a href="https://senpai-ak.web.app">
@@ -50,5 +50,5 @@ On Instagram I run **[@techinsixty](https://instagram.com/techinsixty)**, breaki
 </a>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=anand-reddi&icon=6&color=3" alt="Visitors" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anand-reddi&label=PROFILE%20VIEWS&color=39D353&style=for-the-badge" alt="Profile views" />
 </p>
