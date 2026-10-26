@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64" role="img" aria-label="QUEST LOG">
+<style>.sweep{animation:sw 3.2s ease-in-out infinite} @keyframes sw{0%{transform:translateX(0)}100%{transform:translateX(1000px)}}</style>
+<defs><clipPath id="c"><rect width="1000" height="64"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect x="0" y="10" width="1000" height="44" fill="#121216" stroke="#26262C"/>
+<rect x="0" y="10" width="8" height="44" fill="#FF3B3B"/>
+<rect class="sweep" x="-120" y="53" width="120" height="2" fill="#FF3B3B"/>
+</g>
+<text x="30" y="40" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="16" fill="#FF3B3B">◆</text>
+<text x="60" y="41" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="22" font-weight="800" letter-spacing="3" fill="#F2F2F2">QUEST LOG</text>
+<line x1="207" y1="32" x2="772" y2="32" stroke="#26262C" stroke-dasharray="2 6"/>
+<rect x="792" y="20" width="184" height="24" fill="none" stroke="#FF3B3B"/>
+<text x="884" y="37" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" letter-spacing="1" fill="#FF3B3B">5 CLEARED · 1 ACTIVE</text>
+</svg>

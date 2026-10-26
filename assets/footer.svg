@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-label="Party invite open">
+<style>.blink{animation:b 1s steps(1) infinite} @keyframes b{50%{opacity:0}}</style>
+<rect width="1000" height="120" rx="14" fill="#0B0B0D"/>
+<rect x="20" y="20" width="960" height="80" fill="#121216" stroke="#26262C"/>
+<path d="M20 36 V20 H36" fill="none" stroke="#FF3B3B" stroke-width="3"/><path d="M980 36 V20 H964" fill="none" stroke="#FF3B3B" stroke-width="3"/><path d="M20 84 V100 H36" fill="none" stroke="#FF3B3B" stroke-width="3"/><path d="M980 84 V100 H964" fill="none" stroke="#FF3B3B" stroke-width="3"/>
+<text x="500.0" y="56" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" letter-spacing="3" fill="#FF3B3B">[ SYSTEM ] PARTY INVITE RECEIVED</text>
+<text x="480.0" y="86" text-anchor="end" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="20" font-weight="700" fill="#F2F2F2">Accept quest?</text>
+<rect x="496.0" y="64" width="78" height="30" fill="#FF3B3B"/>
+<text x="535.0" y="85" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#0B0B0D">YES</text>
+<rect x="586.0" y="64" width="70" height="30" fill="none" stroke="#26262C"/>
+<text x="621.0" y="85" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#8A8A93">NO</text>
+<rect class="blink" x="670.0" y="66" width="3" height="26" fill="#FF3B3B"/>
+</svg>
