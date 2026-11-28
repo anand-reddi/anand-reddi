@@ -15,6 +15,7 @@ Outside of client work, I run **[@techinsixty](https://instagram.com/techinsixty
 - **DualShot** — An Android app published on the Google Play Store. → [play.google.com](https://play.google.com/store/apps/details?id=com.vickeyapps.dualshot)
 - **Super Scorer** — A live cricket scoring web app, one of my earliest projects at Vickeyapps.
 - **5+ client websites** — Clean, SEO-friendly sites built with HTML, CSS, and JavaScript.
+- **beatreel** — An open-source agent skill that turns one line in Claude Code, Codex or any AI agent into a finished animated explainer reel: script, offline voice, word-synced captions, 160+ animated scenes in 11 styles and a talking presenter (Kai, Maya, Echo or your own), rendered on your machine. → [beatreel.web.app](https://beatreel.web.app/) · [GitHub](https://github.com/anand-reddi/beatreel)
 - Currently building the Leveling fitness app on flutter, from scratch.
 
 ## 🎨 Beyond Code
